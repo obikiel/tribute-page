@@ -1,0 +1,56 @@
+body{
+	background-color:white;
+	
+}
+#back{
+	height:1000px;
+	width:1000px;
+	position:fixed;
+	margin-left:0px;
+	margin-top:80px;
+	opacity:0.5;
+}
+#main{
+	position:relative;
+	margin-top:30px;
+	background-color:white;
+	text-align:center;
+	width:900px;
+	height:1200px;
+	margin:auto;
+	border:none;
+	box-shadow: 10px 30px 30px black;
+	border-radius:0px;
+}
+
+#title{
+	text-align:center;
+	font-family:"pacifico",cursive;
+	color:black;
+	font-weight:20px;
+	text-transform:uppercase;
+	margin-top:20px;
+	font-size:50px;
+	
+}
+
+#image{
+	width:500px;
+	max-width:100%;
+	position:relative;
+	margin:auto;
+	display:block;
+}
+
+#tribute-info{
+	font-family:"pacifico",cursive;
+	margin-left:30px;
+	margin-right:30px;
+}
+a:hover{
+	color:red;
+	opacity:4.0;
+}
+.foot{
+	margin-top:100px;
+}
